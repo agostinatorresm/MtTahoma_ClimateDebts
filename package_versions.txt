@@ -1,0 +1,65 @@
+R and package versions used to run the scripts of this repository
+Listed on 2026-11-27 from the packages called in the scripts
+
+R version 4.6.2 (2026-10-29)
+Platform: aarch64-apple-darwin23
+Operating system: macOS Tahoe 26.7.3
+
+package                version
+ape                    5.8.1
+BIEN                   1.2.8
+BiocManager            not installed
+brms                   2.23.0
+caper                  1.0.4
+castor                 not installed
+circlize               0.4.18
+coda                   0.19.4.1
+cowplot                1.2.0
+data.table             1.18.6.1
+devtools               not installed
+dplyr                  1.2.1
+elevatr                0.99.1
+flextable              0.10.5
+ggalluvial             not installed
+ggnewscale             0.5.2
+ggpubr                 1.0.0
+ggrepel                0.9.8
+ggspatial              1.1.11
+ggtext                 0.2.0
+ggtree                 not installed
+GIFT                   1.3.5
+gridExtra              2.3.1
+gtable                 0.3.6
+here                   1.0.2
+Hmisc                  5.3.1
+Hmsc                   3.3.7
+hrbrthemes             0.9.3
+knitr                  1.52
+lme4                   2.1.0
+lmerTest               3.2.1
+lubridate              1.9.5
+MASS                   7.3.66
+officer                0.7.9
+patchwork              1.3.2
+phytools               2.5.2
+png                    0.1.9
+posterior              1.8.0
+purrr                  1.2.2
+ragg                   1.5.2
+readxl                 1.6.0
+rgbif                  3.9.0
+rlang                  1.3.0
+rnaturalearth          1.2.0
+scales                 1.4.0
+sf                     1.1.3
+svglite                2.2.2
+terra                  1.9.50
+tidyr                  1.3.2
+tidyterra              1.3.1
+tidyverse              2.0.0
+TNRS                   not installed
+usethis                not installed
+V.PhyloMaker2          0.1.0
+viridis                0.6.5
+viridisLite            0.4.3
+WorldFlora             1.14.5
