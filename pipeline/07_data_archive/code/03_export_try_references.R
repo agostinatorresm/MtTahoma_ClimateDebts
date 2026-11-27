@@ -75,7 +75,7 @@ used_species <- sources_long %>%
   select(trait, species) %>%
   left_join(synonyms, by = c("species" = "final_species"), relationship = "many-to-many") %>%
   transmute(trait, name = species, synonym) %>%
-  pivot_longer(c(name, synonym), values_to = "name") %>%
+  pivot_longer(c(name, synonym), names_to = "source", values_to = "name") %>%
   filter(!is.na(name)) %>%
   distinct(trait, name)
 

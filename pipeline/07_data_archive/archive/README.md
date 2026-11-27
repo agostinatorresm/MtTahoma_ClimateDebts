@@ -13,7 +13,7 @@ Agostina Torres (1), Billur Bektas (1), Kavya Pradhan (2, 3), Amy Angert (4), Ja
 
 Global Change Biology (submitted). Contact: Agostina Torres (ETH Zürich).
 
-Code: the analysis code is archived with this dataset (Software, Zenodo) and will be public at https://github.com/agostinatorresm/MtTahoma_ClimateDebts upon publication.
+Code: the analysis code is archived with this dataset (Software, Zenodo) and is also available at https://github.com/agostinatorresm/MtTahoma_ClimateDebts.
 
 Vegetation of 324 forest plots (316 for the understory) in Mount Rainier National Park, on Mt. Tahoma (WA, USA), first surveyed in about 1975 and resurveyed in 2014–2019, with the species climatic affinities, traits and phylogeny used in the analyses. Except for `raw_surveys.zip`, all files are the data after cleaning, as used in the analyses; the cleaning scripts are part of the code. Plot identifiers (`plot_id`) and species names (`species`) link all files.
 
